@@ -1,0 +1,37 @@
+{
+    "intents":[
+
+        {
+            "tag":"greetings",
+            "patterns":["hello","hey","hii","hey jarvis","wake up buddy","hey buddy","are you there"
+
+            ],
+            "responses":["hello sir","how are you sir.","always for you sir"
+
+
+            ]
+        },
+        {
+            "tag":"breakup",
+            "patterns":["bbye","bye","exit","see you later"
+
+            ],
+            "responses":["bye sir","bye have a nice day ahead","enjoyed a lot with you"
+
+
+            ]
+        },
+        {
+            "tag":"fine",
+            "patterns":["how are you","are you fine","all good","are you well"
+
+            ],
+            "responses":["fine sir","fine what about you sir","good sir"
+
+
+            ]
+        }
+
+    ]
+
+}
